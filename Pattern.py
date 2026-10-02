@@ -1,4 +1,4 @@
-"""#Take input
+#Take input
 print("Half Pyramid Pattern of Stars (*):")
 n = int(input("enter the number of rows: "))
 #outer loop to handle number of rows
@@ -21,7 +21,7 @@ for i in range(1, rows + 1):
         #display result
            print(number, end = '  ')
            number = number + 1
-    print()"""
+    print()
 
 #take input from user
 rowSize = int(input("enter the number of rows: "))
